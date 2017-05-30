@@ -70,7 +70,7 @@
         }
         
         .button {
-            color: white;
+            color: white !important;
             line-height: 35px;
         }
         
@@ -252,6 +252,7 @@
             width: 32px;
             top: 480px;
             left: 200px;
+            opacity: 0;
         }
         
         .silex-id-1489143411591-5 {
