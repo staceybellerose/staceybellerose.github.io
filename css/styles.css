@@ -185,6 +185,7 @@
             top: 960px;
             left: 0px;
             background-color: transparent;
+            border-color: #000000;
         }
         
         @media only screen and (max-width: 480px),
@@ -198,6 +199,7 @@
         .silex-id-1489143327626-2 {
             min-height: 733px;
             background-color: transparent;
+            border-color: #000000;
         }
         
         @media only screen and (max-width: 480px),
@@ -219,6 +221,7 @@
             top: 233px;
             left: 0px;
             min-height: 240px;
+            border-color: #000000;
         }
         
         .silex-id-1440799193140-4 {
@@ -247,6 +250,7 @@
             width: 32px;
             top: 480px;
             left: 136px;
+            border-color: #000000;
         }
         
         .silex-id-1496136896465-9 {
@@ -255,6 +259,20 @@
             top: 480px;
             left: 200px;
             opacity: 0;
+            border-color: #000000;
+        }
+        
+        .silex-id-1496142247747-12 {
+            width: 224px;
+            top: 530px;
+            left: 0px;
+            padding: 8px;
+            min-height: 56px;
+            background-color: rgba(164, 198, 57, 1);
+            border-radius: 11px 11px 11px 11px;
+            border-style: solid;
+            border-width: 1px 1px 1px 1px;
+            border-color: #a4c639;
         }
         
         .silex-id-1489143411591-5 {
