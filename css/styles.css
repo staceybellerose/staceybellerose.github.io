@@ -71,7 +71,9 @@
         
         .button {
             color: white !important;
-            line-height: 35px;
+            font-size: 20px !important;
+            line-height: 26px;
+            padding: 10px;
         }
         
         .button.page-link-active {
@@ -259,7 +261,10 @@
             top: 1473px;
             left: 0px;
             background-color: rgba(51, 51, 51, 1);
-            background-image: url('../assets/webphoto3.jpg');
+            background-image: url('../assets/webphoto6.jpg');
+            background-repeat: no-repeat;
+            background-size: cover;
+            background-position: center center;
         }
         
         .silex-id-1489143411591-4 {
@@ -301,7 +306,7 @@
         .silex-id-1440800306868-7 {
             width: 140px;
             top: 67px;
-            left: 622px;
+            left: 572px;
             background-color: rgba(103, 78, 167, 1);
             border-top-left-radius: 11px;
             border-top-right-radius: 11px;
@@ -313,19 +318,7 @@
         .silex-id-1440800468283-8 {
             width: 140px;
             top: 67px;
-            left: 407px;
-            background-color: rgba(103, 78, 167, 1);
-            border-top-left-radius: 11px;
-            border-top-right-radius: 11px;
-            border-bottom-right-radius: 11px;
-            border-bottom-left-radius: 11px;
-            min-height: 40px;
-        }
-        
-        .silex-id-1440800509589-9 {
-            width: 140px;
-            top: 67px;
-            left: 202px;
+            left: 252px;
             background-color: rgba(103, 78, 167, 1);
             border-top-left-radius: 11px;
             border-top-right-radius: 11px;
@@ -355,23 +348,6 @@
                 left: 11px;
                 width: 423px;
                 min-height: 2539px;
-            }
-        }
-        
-        .silex-id-1440801309675-13 {
-            width: 960px;
-            top: 180px;
-            left: 0px;
-            min-height: 480px;
-        }
-        
-        @media only screen and (max-width: 480px),
-        only screen and (max-device-width: 480px) {
-            .silex-id-1440801309675-13 {
-                top: 195px;
-                left: 11px;
-                width: 423px;
-                min-height: 2525px;
             }
         }
     
