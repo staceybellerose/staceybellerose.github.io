@@ -1,0 +1,8 @@
+{
+  "name": "staceybelle.me",
+  "description": "my website",
+  "version": "0.1",
+  "scripts": {
+    "test": "node test.js"
+  }
+}
