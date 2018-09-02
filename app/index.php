@@ -1,4 +1,4 @@
 <?php
-header('Location: /assets/StaceyAdams.apk');
+header('Location: https://play.google.com/store/apps/details?id=com.staceybellerose.resume');
 die;
 ?>
