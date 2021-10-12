@@ -19,8 +19,8 @@ body{
 }
 
 #userPhoto{
-  width: 120px;
-  height: 120px;
+  width: 150px;
+  height: 150px;
   display: block;
   margin: 35px auto 20px;
   border-radius: 50%;
