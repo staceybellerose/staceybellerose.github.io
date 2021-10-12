@@ -14,7 +14,7 @@
 body{
   background: var(--bgColor) url("../assets/tree-bg.jpg") no-repeat fixed left top;
   background-size: 100% auto;
-  width: 695px;
+  max-width: 695px;
   margin: 0 auto;
 }
 
