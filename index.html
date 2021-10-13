@@ -19,9 +19,13 @@
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 
-<body>
+<body class="no-js">
+  <script src="js/webp.js" type="text/javascript"></script>
   <header>
-    <img id="userPhoto" src="assets/Stacey.jpg" alt="User Photo">
+    <picture class="userPhoto">
+      <source class="userPhoto" srcset="assets/Stacey.webp" type="image/webp">
+      <img class="userPhoto" src="assets/Stacey.jpg" alt="User Photo">
+    </picture>
     <h1>Stacey Adams</h1>
     <h2>
       I'm passionate about technology and how it can make our lives better.

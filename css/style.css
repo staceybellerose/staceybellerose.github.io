@@ -12,16 +12,23 @@
 }
 
 body{
-  background: var(--bgColor) url("../assets/tree-bg.jpg") no-repeat fixed left top;
-  background-size: 100% auto;
   max-width: 695px;
   margin: 0 auto;
 }
 
-#userPhoto{
+body.webp{
+  background: var(--bgColor) url("../assets/tree-bg.webp") no-repeat fixed left top;
+  background-size: 100% auto;
+}
+
+body.no-webp, body.no-js{
+  background: var(--bgColor) url("../assets/tree-bg.jpg") no-repeat fixed left top;
+  background-size: 100% auto;
+}
+
+.userPhoto{
   width: 150px;
   height: 150px;
-  display: block;
   margin: 35px auto 20px;
   border-radius: 50%;
 }
